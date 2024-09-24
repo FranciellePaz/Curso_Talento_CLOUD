@@ -1,0 +1,21 @@
+h1{
+    color: palevioletred;
+    background-color: rgb(255, 240, 240);
+}
+
+div{
+    background-color: lightblue;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 8px;
+}
+
+p {
+    color: aliceblue;
+    background-color:navy ;
+}
+
+p a {
+    color: aliceblue;
+    background-color:navy ;
+}
